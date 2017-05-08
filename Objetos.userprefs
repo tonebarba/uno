@@ -1,15 +1,18 @@
-﻿<Properties StartupItem="6.2.3/6.2.3.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="6.2.3/Libros.cs">
+﻿<Properties StartupConfiguration="{8D23A544-D330-442B-9306-F8EBD6B42D3C}|Default">
+  <MonoDevelop.Ide.ItemProperties.6.2.3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Estado de uno">
     <Files>
       <File FileName="uno/Persona.cs" Line="10" Column="24" />
       <File FileName="uno/PruebaPersona.cs" Line="14" Column="24" />
       <File FileName="6.2.2/Juego.cs" Line="8" Column="1" />
-      <File FileName="6.2.3/Libros.cs" Line="44" Column="26" />
+      <File FileName="6.2.3/Libros.cs" Line="1" Column="1" />
+      <File FileName="Estado de uno" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>
