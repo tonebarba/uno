@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="6.2.3/6.2.3.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="6.2.3/Libros.cs">
+    <Files>
+      <File FileName="uno/Persona.cs" Line="10" Column="24" />
+      <File FileName="uno/PruebaPersona.cs" Line="14" Column="24" />
+      <File FileName="6.2.2/Juego.cs" Line="8" Column="1" />
+      <File FileName="6.2.3/Libros.cs" Line="44" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

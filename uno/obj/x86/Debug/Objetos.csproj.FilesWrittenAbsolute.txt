@@ -1,0 +1,5 @@
+/Users/antoniobarba/Projects/uno/uno/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/antoniobarba/Projects/uno/uno/obj/x86/Debug/uno.exe
+/Users/antoniobarba/Projects/uno/uno/obj/x86/Debug/uno.exe.mdb
+/Users/antoniobarba/Projects/uno/uno/bin/Debug/uno.exe.mdb
+/Users/antoniobarba/Projects/uno/uno/bin/Debug/uno.exe
