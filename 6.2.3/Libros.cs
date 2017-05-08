@@ -49,4 +49,3 @@ class Libro
 	}
 }
 
-wñefklansć,.nas.vna.v
